@@ -1,0 +1,20 @@
+  
+.Menu {
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    background-color: #17224d;
+    color: #fff;
+    margin-bottom: 100px;
+    font-size: 1.1em;
+    justify-content: center;
+}
+
+.Ul{
+    width: 50%;
+    
+}
+
+.Ul > a {
+    color: #fff;  
+}
