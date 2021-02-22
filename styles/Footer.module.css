@@ -1,0 +1,34 @@
+.Footer {
+    width: 100%;
+    height: 200px;
+    background-color: #17224d;
+    color: #ffffff;
+    line-height: 5px;
+    font-size: 1em;
+  }
+  
+  .Footer_Info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20%;
+  }
+
+  .Footer_Info_1,
+  .Footer_Info_2,
+  .Footer_Info_3 {
+    margin-top: 10px;
+  }
+  
+  .Img_Footer_Americana {
+    width: 70%;
+    height: auto;
+  }
+  .Footer_Copyright {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .Copyright {
+    margin-top: 25px;
+  }
